@@ -1,8 +1,35 @@
-.jumbotron h1 {
-  font-weight: bold;
-  color: blue;
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 body {
-  background-color: yellow;
+  background-color: black;
+}
+
+.pull-left .well {
+  background-color: blue;
+}
+
+.col-md-3 #tan {
+  background-color: tan;
+}
+
+.col-md-3 #green {
+  background-color: green;
+}
+
+.col-md-3 #blue {
+  background-color: blue;
+}
+
+.col-md-3 #red {
+  background-color: red;
+}
+
+.jumbotron {
+  background-color: grey;
 }
